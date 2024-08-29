@@ -54,9 +54,6 @@ Skills: Dart/Flutter
 
 <br clear="both">
 
-
-
-
 # snk
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
