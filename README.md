@@ -34,12 +34,11 @@ Skills: Dart/Flutter
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibalways&show_icons=true&locale=en" alt="shakibalways" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibalways&" alt="shakibalways" /></p>
-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibalways)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibalways&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shakibalways)  
 
 
