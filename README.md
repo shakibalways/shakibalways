@@ -36,9 +36,5 @@ Skills: Dart/Flutter
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibalways&" alt="shakibalways" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibalways)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibalways&show_icons=true)  
-
 
 
